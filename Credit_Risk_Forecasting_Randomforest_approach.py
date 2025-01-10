@@ -19,7 +19,7 @@ from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import LabelEncoder
 #%%---importing the dataset
 
-df=pd.read_csv(r"D:\Weiter_Bildung\Data Science Python\Woche_4\credit_risk.csv")
+df=pd.read_csv(credit_risk.csv")
 df.head()
 
 #%%---EDA(first apply info and describe)
